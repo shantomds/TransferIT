@@ -19,14 +19,25 @@ No install · No cloud · Nothing leaves your network
 2. First run only: Windows shows "unknown publisher" → click **More info → Run anyway**, then **Allow** on the firewall prompt (normal for unsigned independent apps).
 3. A page opens with a QR code. Scan it with your phone (same WiFi) and send files instantly, both directions.
 
+## What's new in v1.1.0
+
+- Text clipboard: paste a link, note or code on either device and copy it on the other
+- Cancel or retry transfers from the phone, clear finished items
+- Fullscreen photo and video viewer on the phone
+- Select mode: delete several files at once
+- PC page: open folder and clear buttons, folder drag-and-drop
+
 ## Features
 
-- Phone → PC and PC → phone
+- Phone → PC and PC → phone, both directions
 - Live progress bar, speed and time remaining
+- Text clipboard both ways, with history
 - Photo thumbnails and download links on the phone page
+- Fullscreen viewer for photos and videos
 - Interrupted transfers resume automatically
-- Sound + Windows notification when files arrive
-- Pick exactly where received files are saved
+- Sound + Windows notification when files or texts arrive
+- Pick exactly where received files are saved, open it in one click
+- Send whole folders from the PC
 - Temporary private QR: every launch creates a fresh code, old links die
 - Single portable exe — copy it anywhere, share it with friends
 
