@@ -9,7 +9,7 @@ No install · No cloud · Nothing leaves your network
 
 <img src="media/screenshot-phone.png" width="280" alt="TransferIT on phone">
 
-**[⬇ Download TransferIT.zip (latest)](../../releases/latest)** · Also on [Gumroad](https://shantomds.gumroad.com/l/transferit)
+**[⬇ Download TransferIT.zip (latest)](../../releases/latest)** · Also on [Gumroad](https://steve020.gumroad.com/l/transferit)
 
 </div>
 
